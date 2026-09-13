@@ -1,0 +1,15 @@
+* text=auto
+
+*.cs text
+*.cpp text
+*.h text
+*.json text
+*.md text
+*.txt text
+*.ps1 text
+*.cmd text eol=crlf
+*.sfz text
+
+assets/piano/Samples/*.flac filter=lfs diff=lfs merge=lfs -text
+*.dll -text
+*.lib -text

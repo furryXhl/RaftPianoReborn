@@ -1,0 +1,12 @@
+{
+  "name": "Raft Piano Reborn",
+  "slug": "raft-piano-reborn",
+  "author": "Xiaohulang",
+  "description": "Standalone 88-key sampled piano rewrite. User-editable keyboard bindings, seven momentary octave layers, timestamped input and native single-DSP audio. All samples included.",
+  "version": "1.0.1",
+  "license": "PolyForm-Noncommercial-1.0.0; samples CC-BY-3.0; sfizz BSD-2-Clause",
+  "gameVersion": "1.09",
+  "requiredByAllPlayers": false,
+  "isModPermanent": false,
+  "excludedFiles": []
+}

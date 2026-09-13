@@ -1,0 +1,37 @@
+Raft Piano Reborn 项目许可说明
+
+Copyright (c) 2026 Xiaohulang
+
+Required Notice: Copyright (c) 2026 Xiaohulang. Raft Piano Reborn is licensed under the PolyForm Noncommercial License 1.0.0.
+
+一、适用许可证
+
+Xiaohulang 拥有版权的 Raft Piano Reborn 原创源代码、构建脚本、原生适配代码和项目材料，依照 PolyForm Noncommercial License 1.0.0 提供：
+
+https://polyformproject.org/licenses/noncommercial/1.0.0
+
+这是一个“源码公开、允许非商业使用”的软件许可，不是 OSI 认证的开源许可证。
+
+二、允许的使用
+
+在遵守上述许可证完整条款的前提下，可以出于许可证定义的非商业目的使用、研究、复制、修改和再分发本项目，也可以分发经过修改的版本。
+
+再分发本项目或其中任何受本许可证约束的部分时，必须同时提供上述许可证全文或许可证网址，并保留本文件中的 Required Notice。
+
+三、商业使用
+
+本许可证不授予商业使用权。任何商业使用、商业分发、收费服务、付费整合或具有预期商业用途的使用，均须事先取得版权所有者 Xiaohulang 单独签发的书面商业授权。
+
+四、第三方材料不适用本许可证
+
+Salamander Grand Piano 音源、SFZ 映射以及 sfizz 音源引擎不是 Xiaohulang 的原创作品，继续分别遵循 CC BY 3.0 和 BSD 2-Clause。它们不因与本项目一同分发而改用 PolyForm Noncommercial License。
+
+第三方材料的作者、来源、修改记录和许可证位置见 THIRD-PARTY-NOTICES.md。任何人仍可依照相应第三方许可证独立使用这些第三方材料。
+
+五、名称与标识
+
+除法律另有允许外，本许可不授予使用 Xiaohulang、Raft Piano Reborn 名称或相关标识为修改版背书的权利。修改版应清楚标明已经修改，不得暗示其为作者发布的官方版本。
+
+六、免责声明
+
+本项目按现状提供，不附带任何明示或默示保证。免责声明、责任限制、违约补救和术语定义以 PolyForm Noncommercial License 1.0.0 的正式英文条款为准。本中文文件用于说明本项目的许可选择；如摘要与正式许可条款存在差异，以正式许可条款为准。
